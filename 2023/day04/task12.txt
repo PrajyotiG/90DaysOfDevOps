@@ -1,0 +1,5 @@
+Task 1: Shell scripting is a computer program designed to run by a linux shell.Shell scripting helps in devops tasks to automate them and to reduce human assistance.
+
+Task 2: #!/bin/bash is pronounced as shebang and it is a mandatory line to start writing a bash script.
+yes we can also wrie it as #!/bn/sh
+
